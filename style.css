@@ -40,6 +40,11 @@ a:hover {
   color: black;
 }
 
+.anchor {
+  height: 84px;
+  margin-top: -84px;
+}
+
 .head {
   max-width: 1219px;
   height: 84px;
@@ -84,16 +89,6 @@ a:hover {
   font-size: 72px;
 }
 
-.hide {
-  height: 84px;
-  background-color: #EEEEEE; 
-}
-
-.hide2 {
-  height: 84px;
-  background-color: white; 
-}
-
 .content-box {
   background-color: #EEEEEE;  
 }
@@ -104,6 +99,7 @@ a:hover {
   font-size: 64px;
   font-weight: 500;
   line-height: 75px;
+  padding-top: 48px;
 }
 
 .content-description {
@@ -119,6 +115,10 @@ a:hover {
 
 .bold {
   font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
 }
 
 .img-box2 {
