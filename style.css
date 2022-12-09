@@ -41,7 +41,7 @@ a:hover {
 }
 
 .head {
-  width: 1219px;
+  max-width: 1219px;
   height: 84px;
   padding-left: 55px;
   padding-right: 55px;
@@ -52,7 +52,7 @@ a:hover {
 
 .logo {
   display: inline-block;
-  width: 184px;
+  max-width: 184px;
   height: 45px;
   margin-top: 20px;
 }
@@ -107,7 +107,7 @@ a:hover {
 }
 
 .content-description {
-  width: 1110px;
+  max-width: 1110px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 16px;
@@ -161,7 +161,7 @@ a:hover {
 }
 
 .content-team-box {
-  width: 1110px;
+  max-width: 1110px;
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 94px;
@@ -169,18 +169,16 @@ a:hover {
 
 .card {
   display: inline-block;
-  width: 350px;
+  max-width: 365px;
   height: 283px;
   margin-top: 32px;
-  margin-right: 25px;
 }
 
 .card-bert {
   display: inline-block;
-  width: 350px;
+  max-width: 350px;
   height: 283px;
   margin-top: 32px;
-  margin-right: 0px;
 }
 
 .card-img {
@@ -211,7 +209,7 @@ a:hover {
 }
 
 .footer-box {
-  width: 1219px;
+  max-width: 1219px;
   height: 176px;
   margin-left: auto;
   margin-right: auto;
